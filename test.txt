@@ -1,0 +1,1 @@
+A small Tetris game based in React Hooks and API. Educational reasons only .
