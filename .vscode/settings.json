@@ -1,6 +1,9 @@
 {
     "git.ignoreLimitWarning": true,
     "cSpell.words": [
-        "Tetris"
+        "Tetris",
+        "colaid",
+        "didint",
+        "tetrominos"
     ]
 }
